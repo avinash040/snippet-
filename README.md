@@ -1,4 +1,4 @@
-# snippet-
+# snippet
 Experimenting with creating audio snippets, that inform and also quiz
 
 
